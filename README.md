@@ -95,7 +95,7 @@ An optional normalized margin may be added around the panel before calculating t
 
 CBGX defines the panel geometry and reading order, but it does not require a particular UI framework:
 
-- .NET/WinUI may use `ScrollViewer.ChangeView`.
+- - **.NET/WinUI**: Supported via the official [.NET SDK](https://github.com/pixelvalley-hub/cbgx-dotnet) (utilizing APIs like `ScrollViewer.ChangeView`).
 - Android may use a matrix transformation or zoomable image component.
 - Swift may use `UIScrollView` or SwiftUI transformations.
 - Web readers may use CSS transforms, Canvas, or WebGL.
