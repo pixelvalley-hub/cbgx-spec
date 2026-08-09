@@ -16,9 +16,6 @@ CBGX is an open, platform-neutral container format (`.cbgx`) based on ZIP and JS
 
 ## Normalized Panel Coordinates
 
- src="docs/images/normalized-panel-coordinates.png"
-
-
 <p align="center">
   <img
      src="./docs/images/normalized-panel-coordinates.png"
