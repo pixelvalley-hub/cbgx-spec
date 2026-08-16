@@ -193,4 +193,6 @@ CBGX 0.1 currently defines:
 
 ## License
 
-This specification is licensed under the [MIT License](LICENSE).
+This specification is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
+
+You are free to share and adapt this material for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made.
